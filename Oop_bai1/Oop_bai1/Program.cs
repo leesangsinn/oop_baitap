@@ -7,6 +7,7 @@ namespace Oop_bai1
     {
         static void Main(string[] args)
         {
+            // Tạo danh sách các nhân viên
             List<Employee> employees = new List<Employee>
             {
                 new FullTimeEmployee("Alice", 100),
@@ -14,8 +15,10 @@ namespace Oop_bai1
                 new PartTimeEmployee("Charlie", 80, 20),
                 new PartTimeEmployee("Dave", 90, 25)
             };
+
             while (true)
             {
+                // Hiển thị menu lựa chọn
                 Console.WriteLine("Menu:");
                 Console.WriteLine("1. Add FullTimeEmployee");
                 Console.WriteLine("2. Add PartTimeEmployee");
@@ -25,6 +28,7 @@ namespace Oop_bai1
                 Console.Write("Your choice: ");
                 int choice = int.Parse(Console.ReadLine());
 
+                // Xử lý lựa chọn của người dùng
                 switch (choice)
                 {
                     case 1:
@@ -48,6 +52,7 @@ namespace Oop_bai1
             }
         }
 
+        // Hàm thêm nhân viên FullTime
         private static void AddFullTimeEmployee(List<Employee> employees)
         {
             try
@@ -65,6 +70,7 @@ namespace Oop_bai1
             }
         }
 
+        // Hàm thêm nhân viên PartTime
         private static void AddPartTimeEmployee(List<Employee> employees)
         {
             try
@@ -85,6 +91,7 @@ namespace Oop_bai1
             }
         }
 
+        // Hàm hiển thị nhân viên có lương cao nhất
         private static void DisplayHighestSalaryEmployees(List<Employee> employees)
         {
             FullTimeEmployee highestPaidFullTime = null;
@@ -112,6 +119,7 @@ namespace Oop_bai1
             Console.WriteLine("Highest salary PartTimeEmployee: " + (highestPaidPartTime != null ? highestPaidPartTime.ToString() : "None"));
         }
 
+        // Hàm tìm kiếm nhân viên theo tên
         private static void SearchEmployeeByName(List<Employee> employees)
         {
             Console.Write("Enter name to search: ");

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Prn212\\Oop_bai1\\Oop_bai1\\Oop_bai1.csproj",
+      "projectUniqueName": "D:\\Prn212\\Oop_baitap\\Oop_bai1\\Oop_bai1\\Oop_bai1.csproj",
       "projectName": "Oop_bai1",
-      "projectPath": "D:\\Prn212\\Oop_bai1\\Oop_bai1\\Oop_bai1.csproj",
+      "projectPath": "D:\\Prn212\\Oop_baitap\\Oop_bai1\\Oop_bai1\\Oop_bai1.csproj",
       "packagesPath": "C:\\Users\\Sang\\.nuget\\packages\\",
-      "outputPath": "D:\\Prn212\\Oop_bai1\\Oop_bai1\\obj\\",
+      "outputPath": "D:\\Prn212\\Oop_baitap\\Oop_bai1\\Oop_bai1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

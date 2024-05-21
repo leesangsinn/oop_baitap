@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Prn212\\Oop_bai1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Prn212\\Oop_baitap\\Oop_bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB771EBB-A0BB-48B0-A629-7905B1D7460A}|Oop_bai1\\Oop_bai1.csproj|d:\\prn212\\oop_baitap\\oop_bai1\\oop_bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB771EBB-A0BB-48B0-A629-7905B1D7460A}|Oop_bai1\\Oop_bai1.csproj|solutionrelative:oop_bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Prn212\\Oop_baitap\\Oop_bai1\\Oop_bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Oop_bai1\\Program.cs",
+              "ToolTip": "D:\\Prn212\\Oop_baitap\\Oop_bai1\\Oop_bai1\\Program.cs",
+              "RelativeToolTip": "Oop_bai1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:31:58.531Z",
+              "EditorCaption": ""
             }
           ]
         }
