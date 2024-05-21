@@ -1,0 +1,15 @@
+D:\Prn212\Oop_bai2\Oop_bai2\bin\Debug\net8.0\Oop_bai2.exe
+D:\Prn212\Oop_bai2\Oop_bai2\bin\Debug\net8.0\Oop_bai2.deps.json
+D:\Prn212\Oop_bai2\Oop_bai2\bin\Debug\net8.0\Oop_bai2.runtimeconfig.json
+D:\Prn212\Oop_bai2\Oop_bai2\bin\Debug\net8.0\Oop_bai2.dll
+D:\Prn212\Oop_bai2\Oop_bai2\bin\Debug\net8.0\Oop_bai2.pdb
+D:\Prn212\Oop_bai2\Oop_bai2\obj\Debug\net8.0\Oop_bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prn212\Oop_bai2\Oop_bai2\obj\Debug\net8.0\Oop_bai2.AssemblyInfoInputs.cache
+D:\Prn212\Oop_bai2\Oop_bai2\obj\Debug\net8.0\Oop_bai2.AssemblyInfo.cs
+D:\Prn212\Oop_bai2\Oop_bai2\obj\Debug\net8.0\Oop_bai2.csproj.CoreCompileInputs.cache
+D:\Prn212\Oop_bai2\Oop_bai2\obj\Debug\net8.0\Oop_bai2.sourcelink.json
+D:\Prn212\Oop_bai2\Oop_bai2\obj\Debug\net8.0\Oop_bai2.dll
+D:\Prn212\Oop_bai2\Oop_bai2\obj\Debug\net8.0\refint\Oop_bai2.dll
+D:\Prn212\Oop_bai2\Oop_bai2\obj\Debug\net8.0\Oop_bai2.pdb
+D:\Prn212\Oop_bai2\Oop_bai2\obj\Debug\net8.0\Oop_bai2.genruntimeconfig.cache
+D:\Prn212\Oop_bai2\Oop_bai2\obj\Debug\net8.0\ref\Oop_bai2.dll
